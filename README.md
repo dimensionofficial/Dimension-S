@@ -1,2 +1,2 @@
-# Dimension-Energy
-One of the applications based on the DImension chain
+# Dimension-S
+Sidechain DImension-S for sharing and energy
