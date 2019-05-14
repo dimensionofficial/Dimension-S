@@ -12,7 +12,7 @@ Dimension-S will map and segment real-world assets into digital assets by provid
 
 # Dimension-S Architecture
 
-[Dimension-S Architecture](Pic/Dimension-SArchitecture.jpg)
+![Dimension-S Architecture](Pic/Dimension-SArchitecture.jpg)
 
 # License
 [MIT License](LICENSE)
